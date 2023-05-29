@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samforderer
-- 👀 I’m interested in making cool stuff with Python and wasting time configuring my linux workstation to absolute perfection
+- 👀 I'm currently learning java and mastering OOP paradigms. 
 - 🌱 I am a software development student at Mohawk College
-- 💞️ I’m looking to collaborate on any projects where I could take a front-end dev and design role.
+- 💞️ I’m looking to collaborate on any web projects where I could take a full-stack and/or ux role.
 - 📫 text me: 905-981-6666 or email: samsloanforderer@icloud.com
 
 <!---
