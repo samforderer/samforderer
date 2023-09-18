@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samforderer
-- 👀 I'm currently learning java and mastering OOP paradigms. 
+- 👀 I'm currently learning Java, C#, python and mastering OOP paradigms. 
 - 🌱 I am a software development student at Mohawk College
 - 💞️ I’m looking to collaborate on any web projects where I could take a full-stack and/or ux role.
 - 📫 text me: 905-981-6666 or email: samforderer@proton.me
