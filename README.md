@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @samforderer
-- 👀 I'm currently learning Java, C#, python and mastering OOP paradigms. 
-- 🌱 I am a software development student at Mohawk College
-- 💞️ I’m looking to collaborate on any web projects where I could take a full-stack and/or ux role.
+- 👀 I am a fullstack dev currently working at Evenica in Burlington, ON.
+- 🌱 I am also pursuing a software development diploma from Mohawk College.
+- 📚 My current fascinations are C, Unix and Functional Programming. 
+- 💞️ I love computing.
 - 📫 text me: 905-981-6666 or email: samforderer@proton.me
 
 <!---
